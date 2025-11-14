@@ -36,24 +36,17 @@ I love building high-performance systems that are **clean, efficient, reliable, 
 
 ---
 
-## 📚 Featured Repositories
-> (I can auto-generate a complete list of ALL your repos via GitHub Actions—just tell me!)
-
-### 🔹 Data Engineering & Pipelines
-- **[Add your project name]** – description
-- **[Add your project name]** – description
-
-### 🔹 Machine Learning & Analytics
-- **[Add your project name]** – description
-- **[Add your project name]** – description
-
-### 🔹 Tools & Automation
-- **[Add your project name]** – description
+### 🔍 All Projects  
+[View all my repositories on GitHub →](https://github.com/for09?tab=repositories)
 
 ---
 
-### 🔍 All Projects  
-[View all my repositories on GitHub →](https://github.com/for09?tab=repositories)
+| Project | Description | Tech Stack |
+|---|---|---|
+| **Financial Data Analysis & Stock Trend Prediction** | End‑to‑end financial analysis pipeline using EMA, SMA, RSI, OBV for trend prediction; includes EDA, feature engineering & ML model training. | `Python`, `Jupyter`, `Pandas`, `NumPy`, `Matplotlib`, `Scikit‑Learn` |
+| **Retail Sales Insight Dashboard** | Analytics & visualization pipeline processing 1000K retail transactions; automated cleaning & reporting; delivered insights for sales strategy. | `Python`, `Pandas`, `Matplotlib` |
+| **Student Performance Analysis (EDA & Visualization)** | EDA on 1000+ student records; statistical analysis & visualization; uncovered performance predictors & actionable insights. | `Python`, `Pandas`, `Seaborn`, `Matplotlib` |
+| **Crime Prediction System** | ML prediction system achieving 85% accuracy using Random Forest & Decision Trees; optimized preprocessing pipeline. | `Python`, `Pandas`, `NumPy`, `Scikit‑Learn` |
 
 ---
 
