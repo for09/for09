@@ -1,73 +1,66 @@
-# 👋 Hi, I'm Foram Brahmbhatt
+<!-- GitHub Profile README -->
+<h1 align="center">✨ Foram Brahmbhatt — Data Engineering & Systems Innovator ✨</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=24&pause=1000&color=0E8CF7&width=600&lines=Systems+%26+Technology+Grad+Student+@+McMaster;Aspiring+Data+Engineer+%7C+Database+Developer;Turning+Complex+Data+Into+Impactful+Insights;Open+to+Co-op+%26+Internship+Opportunities" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=26&duration=1200&pause=600&color=0E8CF7&center=true&vCenter=true&width=800&lines=Data+Engineer+%7C+Systems+%26+Technology+Graduate;Database+Developer+%7C+Pipeline+Optimizer;Transforming+Raw+Data+Into+Insightful+Systems;Actively+Seeking+Co-op+%2F+Internship+Opportunities" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=for09&label=Profile+Views&color=brightgreen&style=flat" />
 </p>
 
 ---
 
 ## 🚀 About Me
-I am a **Master of Engineering in Systems & Technology** student at **McMaster University**, with a deep passion for **data engineering, scalable systems, database development, and applied machine learning**. I love solving complex problems, building optimized systems, and transforming raw data into meaningful, actionable insights.
+I am a **Master of Engineering in Systems & Technology** student at **McMaster University**, specializing in data engineering, database technologies, scalable systems, and applied machine learning.
 
-I thrive in environments where I can combine technical depth with analytical thinking—whether it's architecting datasets, optimizing database systems, automating end-to-end pipelines, or decoding patterns that drive decision-making.
+I love building high-performance systems that are **clean, efficient, reliable, and designed for scale**. Whether it's optimizing databases, engineering pipelines, or performing data-driven analysis—I bring precision, creativity, and purpose to every project.
 
-🔍 **Actively seeking Co‑op / Internship opportunities (2025)** where I can grow, contribute, and transition into a full‑time opportunity.
-
----
-
-## 💼 Professional Snapshot
-- ⚙️ Hands‑on experience as a **Junior Database Analyst**, improving query speeds, enabling analytics workflows, and collaborating cross‑functionally.
-- 📊 Strong analytical mindset—experienced in **EDA, predictive modelling, PCA, regression analysis**, and statistical insights.
-- 🛠️ Skilled at building efficient **ETL pipelines**, designing relational DB architectures, and optimizing high‑volume systems.
-- 🤝 Known for leadership, ownership, and the drive to **create, improve, and deliver meaningful results**.
+### 🔥 **I am ACTIVELY looking for Co-op / Internship opportunities (2025)**
+**My goal is to join a team where I can contribute meaningfully and grow into a full-time role.**
 
 ---
 
-## 🔧 Tech Stack
-**Languages:** Python, SQL, R, Bash, JavaScript  
-**Databases:** PostgreSQL, MySQL, MongoDB, SQL Server, Oracle  
-**Tools & Frameworks:** Pandas, NumPy, Scikit‑Learn, TensorFlow (basics), Airflow, Power BI, Docker  
-**Cloud:** AWS (EC2, S3, Lambda), Azure (Basics), GCP (Basics)  
-**Other:** Git, Linux, Jupyter, Tableau
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=tokyonight" />
+## 🧠 Technical Skill Set
+<p>
+<img src="https://skillicons.dev/icons?i=python,postgresql,mysql,mongodb,sqlite,aws,azure,gcp,linux,docker,git,github,java,javascript,r,visualstudio,vscode,react,html,css,bootstrap,regex,powershell,bash,notion,figma&perline=10" />
 </p>
 
 ---
 
-## 📚 Featured Projects
-Here are some of my most impactful repositories:
+## 📊 GitHub Analytics
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=for09&show_icons=true&hide_border=false&count_private=true&theme=tokyonight" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=for09&layout=compact&hide_border=false&theme=tokyonight" />
+</p>
+
+---
+
+## 📚 Featured Repositories
+> (I can auto-generate a complete list of ALL your repos via GitHub Actions—just tell me!)
 
 ### 🔹 Data Engineering & Pipelines
-- **[PROJECT_1_NAME](REPO_LINK)** – Short impactful description
-- **[PROJECT_2_NAME](REPO_LINK)** – Short impactful description
+- **[Add your project name]** – description
+- **[Add your project name]** – description
 
 ### 🔹 Machine Learning & Analytics
-- **[PROJECT_3_NAME](REPO_LINK)** – Short impactful description
-- **[PROJECT_4_NAME](REPO_LINK)** – Short impactful description
+- **[Add your project name]** – description
+- **[Add your project name]** – description
 
-### 🔹 System Design / Automation / Tools
-- **[PROJECT_5_NAME](REPO_LINK)** – Short impactful description
-
-> You can automatically list all your repos using GitHub Actions—let me know if you'd like me to auto‑generate that section.
+### 🔹 Tools & Automation
+- **[Add your project name]** – description
 
 ---
 
 ## 🔗 Connect With Me
 <p align="left">
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/forambrahmbhatt/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:foramb1104@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://github.com/for09" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
 
-### ⭐ If you like my work, consider giving a star to my repositories!
+<p align="center"><b>"Systems that scale. Data that speaks. Engineering that transforms."</b></p>
 
 ---
-
-<p align="center"><b>"Data is powerful. Systems are limitless. And innovation starts with curiosity."</b></p>
